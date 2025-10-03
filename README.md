@@ -34,7 +34,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" height="40" alt="cpp logo"  />
-  and others.
+  <p>and others.</p>
 </div>
 
 ###
