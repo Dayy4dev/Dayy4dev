@@ -1,40 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hi, I'm Dafi and I'm a high school student, from Indonesia.</h2>
 
 ###
 
-<p align="left">My name is Rexd and I'm a Dev, from Indonesia</p>
+<img align="right" height="200" src="https://media.tenor.com/B7vWJuYWROwAAAAi/freaking-out.gif"  />
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">A student who enjoys turning ideas into working code.<br>Interested in web development, embedded systems, and game projects.<br>Currently learning, experimenting, and breaking things (on purpose).</p>
 
 ###
 
-<p align="left">✨ I always want to improve<br>📚 High School Students<br>🎯 Goals: idk<br>🎲 Fun fact: idk</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
-<h2 align="left">I code with</h2>
+<div align="center">
+  <a href="https://discord.com/users/948524546321973258" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" height="40" alt="c# logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" height="40" alt="cpp logo"  />
-  <p>and others.</p>
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=%22Hello%20World%22&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
