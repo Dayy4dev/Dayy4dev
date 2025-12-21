@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Dafi and I'm a high school student, from Indonesia.</h2>
+<h1 align="left">Hi, I'm Dafi 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A student who enjoys turning ideas into working code.<br>Interested in web development, embedded systems, and game projects.<br>Currently learning, experimenting, and breaking things (on purpose).</p>
+<p align="left">A student who enjoys turning ideas into working code.<br>Interested in web development, IoT, Android, and game projects.<br>Currently learning, experimenting, and breaking things (on purpose).</p>
 
 ###
 
