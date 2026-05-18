@@ -14,8 +14,11 @@
   <a href="https://discord.com/users/948524546321973258" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://www.svgrepo.com/show/474183/web.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="rexd.my.id" target="_blank">
+  <img src="https://emojifavicons.com/globe?animate=float" width="52" height="40" alt="web logo"  />
+  </a>
 </div>
 
 ###
