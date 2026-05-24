@@ -14,7 +14,7 @@
   <a href="https://instagram.com/daff.fx" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo"  /></a>
   <img width="32" />
-  <a href="https://discord.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/948524546321973258" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  /></a>
   <img width="32" />
   <a href="https://rexd.my.id" target="_blank" rel="noopener noreferrer">
