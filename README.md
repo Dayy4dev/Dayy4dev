@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/y-cAqycX1I8AAAAj/wuwa-wuthering-waves.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/y-cAqycX1I8AAAAj/wuwa-wuthering-waves.gif" alt="lynae"  />
 
 ###
 
