@@ -23,15 +23,22 @@
     <img align="right" width="140" src="./images/skills.jpg" alt="Skills">
   </picture>
 </a>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,java,flutter,arduino,unity,git,vscode,github,ae,ps,unrealengine,blender,laravel,wordpress,linux,docker&theme=dark">
-</p>
-<a href="https://github.com/Dayy4dev">
-  <picture>
-    <source media="(min-width: 768px)" srcset="./images/spacer.png">
-    <img width="140" src="./images/skills.jpg" alt="Skills">
-  </picture>
-</a>
+
+### 💻 Web Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,laravel,wordpress&theme=dark">
+
+### 📱 Mobile & IoT
+<img src="https://skillicons.dev/icons?i=java,flutter,arduino&theme=dark">
+
+### 🎮 Game & 3D
+<img src="https://skillicons.dev/icons?i=unity,unrealengine,blender&theme=dark">
+
+### 🎨 Design & Creative
+<img src="https://skillicons.dev/icons?i=ae,ps,figma&theme=dark">
+
+### 🛠️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,github&theme=dark">
+
 <br clear="all">
 
 ## **🔝 Top Languages**
