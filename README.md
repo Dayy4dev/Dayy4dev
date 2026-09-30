@@ -59,11 +59,11 @@ Hehe~ another cutie has been caught.
 
 ## **📫 Contact**
 <a href="https://github.com/Dayy4dev"><img align="right" width="140" src="./images/contact.jpg"></a>
-**Fastest way to reach me:** [Discord — dafi](https://discord.com/users/948524546321973258)
+**Fastest way to reach me:** [Discord - dafi](https://discord.com/users/948524546321973258)
 
 **Or email me:** dafi.ristiansyah@gmail.com
 
-**Also here:** [Instagram — daff.fx](https://instagram.com/daff.fx) · [Web — rexd.my.id](https://rexd.my.id)
+**Also here:** [Instagram - daff.fx](https://instagram.com/daff.fx) · [Web - rexd.my.id](https://rexd.my.id)
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Dayy4dev"></a>
 [![Followers](https://img.shields.io/github/followers/Dayy4dev?label=Followers&style=social)](https://github.com/Dayy4dev)
