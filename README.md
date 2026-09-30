@@ -35,11 +35,9 @@
 <br clear="all">
 
 ## **🔝 Top Languages**
-- **C#** (9 repos) — Unity, WPF, game dev
-- **Java** (4 repos) — Android, backend
-- **Dart** — Flutter mobile
-- **JavaScript/PHP** — Web development
-- **Python** — Automation & scripting
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dayy4dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</p>
 
 ## **📊 Github Stats**
 <p align="center">
