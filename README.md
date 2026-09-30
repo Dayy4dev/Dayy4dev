@@ -2,7 +2,7 @@
   <img width="900" alt="Preview" src="./images/banner.webp">
 </p>
 
-<a href="https://discord.com/users/948524546321973258"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/948524546321973258?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+<a href="https://discord.com/users/948524546321973258"><img align="right" width="425" hspace="20" vspace="12" src="https://lanyard.cnrad.dev/api/948524546321973258?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 ### Hi!👋 I'm Dafi
 
@@ -24,7 +24,7 @@
   </picture>
 </a>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,java,flutter,arduino,unity,git,vscode,github&theme=dark">
+  <img width="600" src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,java,flutter,arduino,unity,git,vscode,github&theme=dark">
 </p>
 <a href="https://github.com/Dayy4dev">
   <picture>
@@ -32,7 +32,7 @@
     <img width="140" src="./images/skills.jpg" alt="Skills">
   </picture>
 </a>
-<br><br>
+<br clear="all">
 
 ## **📊 Github Stats**
 <p align="center">
