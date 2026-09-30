@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" alt="Preview" src="./images/banner.webp">
+  <img width="900" alt="Preview" src="./images/banner.png">
 </p>
 
 <a href="https://discord.com/users/948524546321973258"><img align="right" width="425" hspace="0" vspace="12" src="https://lanyard.cnrad.dev/api/948524546321973258?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
