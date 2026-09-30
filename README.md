@@ -24,7 +24,7 @@
   </picture>
 </a>
 <p>
-  <img width="600" src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,java,flutter,arduino,unity,git,vscode,github&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,java,flutter,arduino,unity,git,vscode,github,ae,ps,unrealengine,blender,laravel,wordpress,linux,docker&theme=dark">
 </p>
 <a href="https://github.com/Dayy4dev">
   <picture>
