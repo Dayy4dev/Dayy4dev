@@ -34,6 +34,13 @@
 </a>
 <br clear="all">
 
+## **🔝 Top Languages**
+- **C#** (9 repos) — Unity, WPF, game dev
+- **Java** (4 repos) — Android, backend
+- **Dart** — Flutter mobile
+- **JavaScript/PHP** — Web development
+- **Python** — Automation & scripting
+
 ## **📊 Github Stats**
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dayy4dev&theme=react&hide_border=true&bg_color=0D1117"/>
