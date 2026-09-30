@@ -43,8 +43,12 @@
 
 ## **📊 Github Stats**
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Dayy4dev&show_icons=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Dayy4dev&show_icons=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide_rank=true"/>
   <img height="170" src="https://streak-stats.demolab.com?user=Dayy4dev&theme=react&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Dayy4dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 <!-- Top-langs resmi lagi paused (DEPLOYMENT_PAUSED) — nanti aktifkan lagi:
 <p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayy4dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/></p>
