@@ -13,7 +13,7 @@
 - Name: **Dafi**
 - Interested in: **Web Development, IoT, Android, and Game Projects**
 - Currently: **Learning, experimenting, and breaking things (on purpose)**
-- Language: **Indonesian, English**
+- Language: **Indonesian, English, Japanese**
 <br><br>
 
 ## **💻 Skills**
@@ -50,9 +50,6 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Dayy4dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
-<!-- Top-langs resmi lagi paused (DEPLOYMENT_PAUSED) — nanti aktifkan lagi:
-<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayy4dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/></p>
--->
 
 ## **🎧 Music**
 <p align="center">
