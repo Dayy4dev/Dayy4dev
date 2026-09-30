@@ -68,6 +68,11 @@ People who visit my profile :3.
 Hehe~ another cutie has been caught.
 ```
 
+## **🎮 Gaming**
+[![Steam](https://img.shields.io/badge/Steam-1b1b1b?logo=steam&logoColor=white&link=https://steamcommunity.com/id/rexd404)](https://steamcommunity.com/id/rexd404)
+
+**Steam Profile:** [rexd404](https://steamcommunity.com/id/rexd404) — Playing games, collecting achievements, and breaking worlds~ ♪
+
 ## **📫 Contact**
 <a href="https://github.com/Dayy4dev"><img align="right" width="140" src="./images/contact.jpg"></a>
 **Fastest way to reach me:** [Discord - dafi](https://discord.com/users/948524546321973258)
