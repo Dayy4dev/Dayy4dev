@@ -2,14 +2,14 @@
   <img width="900" alt="Preview" src="./images/banner.webp">
 </p>
 
-<a href="https://discord.com/users/948524546321973258"><img align="right" width="425" hspace="20" vspace="12" src="https://lanyard.cnrad.dev/api/948524546321973258?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+<a href="https://discord.com/users/948524546321973258"><img align="right" width="425" hspace="0" vspace="12" src="https://lanyard.cnrad.dev/api/948524546321973258?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 ### Hi!👋 I'm Dafi
 
 *A student who enjoys turning ideas into working code.*
 
 ## **☕ About me**
-<a href="https://github.com/Dayy4dev"><img align="left" width="140" hspace="14" vspace="6" src="./images/aboutme.jpg" alt="About me"></a>
+<a href="https://github.com/Dayy4dev"><img align="left" width="140" src="./images/aboutme.jpg" alt="About me"></a>
 - Name: **Dafi**
 - Interested in: **Web Development, IoT, Android, and Game Projects**
 - Currently: **Learning, experimenting, and breaking things (on purpose)**
