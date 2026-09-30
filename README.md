@@ -41,14 +41,9 @@
 
 <br clear="all">
 
-## **🔝 Top Languages**
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dayy4dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
-
 ## **📊 Github Stats**
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dayy4dev&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Dayy4dev&show_icons=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
   <img height="170" src="https://streak-stats.demolab.com?user=Dayy4dev&theme=react&hide_border=true&background=0D1117"/>
 </p>
 <!-- Top-langs resmi lagi paused (DEPLOYMENT_PAUSED) — nanti aktifkan lagi:
@@ -57,7 +52,7 @@
 
 ## **🎧 Music**
 <p align="center">
-<a href="https://open.spotify.com/user/31kpyy2yfwsqaqcag432tyewxlf4"><img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=31kpyy2yfwsqaqcag432tyewxlf4"></a>
+<a href="https://open.spotify.com/user/31kpyy2yfwsqaqcag432tyewxlf4"><img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=31kpyy2yfwsqaqcag432tyewxlf4&count=3"></a>
 </p>
 
 ## **🧋 Cutie Counter**
