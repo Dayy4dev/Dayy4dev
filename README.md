@@ -19,7 +19,7 @@
 ## **💻 Skills**
 <a href="https://github.com/Dayy4dev">
   <picture>
-    <source media="(max-width: 767px)" srcset="./images/blank.png">
+    <source media="(max-width: 767px)" srcset="./images/spacer.png">
     <img align="right" width="140" src="./images/skills.jpg" alt="Skills">
   </picture>
 </a>
@@ -28,7 +28,7 @@
 </p>
 <a href="https://github.com/Dayy4dev">
   <picture>
-    <source media="(min-width: 768px)" srcset="./images/blank.png">
+    <source media="(min-width: 768px)" srcset="./images/spacer.png">
     <img width="140" src="./images/skills.jpg" alt="Skills">
   </picture>
 </a>
