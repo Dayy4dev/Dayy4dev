@@ -63,7 +63,11 @@ Hehe~ another cutie has been caught.
 
 **Or email me:** dafi.ristiansyah@gmail.com
 
+**Also here:** [Instagram — daff.fx](https://instagram.com/daff.fx) · [Web — rexd.my.id](https://rexd.my.id)
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Dayy4dev"></a>
 [![Followers](https://img.shields.io/github/followers/Dayy4dev?label=Followers&style=social)](https://github.com/Dayy4dev)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/948524546321973258)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/daff.fx)
+[![Website](https://img.shields.io/badge/Web-rexd.my.id-4285F4?logo=googlechrome&logoColor=white)](https://rexd.my.id)
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:dafi.ristiansyah@gmail.com)
