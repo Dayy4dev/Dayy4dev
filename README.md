@@ -59,15 +59,6 @@
 <a href="https://open.spotify.com/user/31kpyy2yfwsqaqcag432tyewxlf4"><img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=31kpyy2yfwsqaqcag432tyewxlf4&count=3"></a>
 </p>
 
-## **🧋 Cutie Counter**
-<a href="https://discord.com/users/948524546321973258"><img align="right" width="400" src="https://count.getloli.com/@dayy4dev?name=dayy4dev&theme=green&padding=7&offset=0&scale=1&pixelated=1&darkmode=0"></a>
-
-```yaml
-People who visit my profile :3.
-
-Hehe~ another cutie has been caught.
-```
-
 ## **🎮 Gaming**
 [![Steam](https://img.shields.io/badge/Steam-1b1b1b?logo=steam&logoColor=white&link=https://steamcommunity.com/id/rexd404)](https://steamcommunity.com/id/rexd404)
 
